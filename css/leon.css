@@ -219,6 +219,8 @@ body {
   @media (max-width: 767px) {
     .landing .dis{
         font-size: small;
+        width: 100%;
+        padding-left: 270px;
     }
     .landing .author__urls{
         padding-top: 110px;
@@ -227,7 +229,7 @@ body {
     }
     .landing .intro-text {
         padding-top: 250px;
-        padding-left: 200px;
+        padding-left: 230px;
         
         width: 100%;
         height: 100%;
