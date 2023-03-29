@@ -216,6 +216,30 @@ body {
     letter-spacing: 1px;
     
   }
+  @media (max-width: 767px) {
+    .landing .dis{
+        font-size: small;
+    }
+    .landing .author__urls{
+        padding-top: 110px;
+        padding-left: 55px;
+        font-size: small;
+    }
+    .landing .intro-text {
+        padding-top: 250px;
+        padding-left: 200px;
+        
+        width: 100%;
+        height: 100%;
+    }
+    .landing .intro-text h1{
+       font-size: x-large;
+    }
+    .landing .intro-text p{
+        font-size: small;
+     }
+  }
+
   /* End Landing Section */
   
   
